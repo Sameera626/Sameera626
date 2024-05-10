@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is a change!
+This was a change!
 
 but we don't need changes!
 Let's do some changes!
