@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-There are were some changes!
-
-but we don't need changes!
-Let's do some changes!
